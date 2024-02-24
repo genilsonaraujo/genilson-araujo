@@ -1,4 +1,4 @@
-<h1>genilson-araujo</h1>
+#genilson-araujo
 
 <h2>Olá  meu nome é Genilson Araújo!</h2> 
 <p>Sou iniciante no Github e estou aprendendo algumas tecnogias.</p>
