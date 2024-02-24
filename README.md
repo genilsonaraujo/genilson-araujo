@@ -1,5 +1,3 @@
-#genilson-araujo
-
 <h2>Olá  meu nome é Genilson Araújo!</h2> 
 <p>Sou iniciante no Github e estou aprendendo algumas tecnogias.</p>
 <p>Cursando 4° semestre no Curso de Engenharia da Computação!</p>
